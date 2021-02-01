@@ -32,4 +32,19 @@ li {
 
 h4 {
     letter-spacing: 15px;
+    font-family: 'Press Start 2P', cursive;
+}
+
+h4, h3, h2 {
+    text-align: center;
+}
+
+li {
+   font-size: 1rem; 
+}
+
+body {
+    background: url(starTrek.jpg);
+    background-size: cover;
+    color: rgba(255,255,255, 0.6);
 }
